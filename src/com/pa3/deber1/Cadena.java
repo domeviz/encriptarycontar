@@ -33,5 +33,4 @@ public class Cadena {
 		}
 		return contar;
 	};
-
 }

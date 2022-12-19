@@ -10,3 +10,4 @@ public class Conteo<Palabra, Numero> extends HashMap<Palabra, Numero> {
 
 	}
 }
+
